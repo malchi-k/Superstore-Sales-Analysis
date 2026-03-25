@@ -44,15 +44,3 @@ SQL-анализ продаж интернет-магазина | Оконные
 6. **Сезонность продаж**  
    Пиковые месяцы: **март, сентябрь, октябрь, ноябрь**.  
    Самый слабый месяц — **февраль**.
-
-### Структура репозитория
-Superstore-Sales-Analysis/
-├── sql/                    ← все SQL-запросы
-│   ├── 01_key_metrics.sql
-│   ├── 02_sales_by_year.sql
-│   ├── 03_sales_by_category.sql
-│   ├── 04_top_products.sql
-│   ├── 05_discount_impact.sql
-│   └── 06_top_products_per_category.sql
-├── images/                 ← скриншоты результатов
-└── README.md
