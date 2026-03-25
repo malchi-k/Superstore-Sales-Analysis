@@ -56,3 +56,12 @@ SQL-анализ продаж интернет-магазина | Оконные
 ### Следующие шаги
 - Создание дашборда в Power BI
 - RFM-анализ клиентов
+
+### Примеры результатов анализа
+
+![Общие метрики](image/01_key_metrics.PNG)
+![Продажи по годам](image/02_sales_by_year.PNG)
+![Продажи по категориям](image/03_sales_by_category.png)
+![Топ товаров](image/04_top_products.PNG)
+![Влияние скидок](image/05_discount_impact.PNG)
+![Топ-5 товаров в каждой категории](image/06_top_products_per_category.PNG)
